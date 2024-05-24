@@ -1,0 +1,50 @@
+.home-section{
+    margin-bottom: 5rem;
+}
+
+.intro{
+    width: 60%;
+}
+
+img{
+    display: inline-block;
+    max-width: 60%;
+    max-height: 60%;
+    padding: 10%;
+    margin: 0 auto;
+    transform: rotate(7deg);
+}
+
+.image-area {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.full {
+    width: 100%;
+}
+
+.tag {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: .75rem;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+li {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    margin-right: 1rem;
+}
+
+.project-label{
+    margin-top: 1.5rem;
+}
